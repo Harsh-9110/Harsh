@@ -1,12 +1,4 @@
-
 {
-  "redirects": [
-    {
-      "source": "/:path*",
-      "destination": "https://harsh-venom.vercel.app/:path*",
-      "permanent": true
-    }
-  ],
   "rewrites": [
     {
       "source": "/(.*)",
